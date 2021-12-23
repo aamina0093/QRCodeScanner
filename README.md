@@ -4,7 +4,7 @@ QR Code Scanner
 
 **DESCRIPTION:**
 
-The project deals with generating a QR Code as an output for a text given as an input.
+The project deals with scanning a QR code as an input and provides the value of the QR Code as an output.
 
 **LANGUAGE USED:**
 
